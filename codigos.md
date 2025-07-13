@@ -28,4 +28,10 @@
 - npm install -D @types/node
 - npm i react-router-dom
 - npm i @tanstack/react-query
+- npx shadcn@latest add card badge
+- npm i dayjs (formatar datas)
+- npx shadcn@latest add form (formulario)
+- npm i @hookform/resolvers (formulário)
+- npx shadcn@latest add input (formulário)
+- npx shadcn@latest add textarea (formulário)
   
